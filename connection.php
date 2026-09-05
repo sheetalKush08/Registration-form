@@ -2,7 +2,7 @@
 // Database connection
 $servername = "localhost"; // Change this if your database is hosted elsewhere
 $username = "root"; // Your database username
-$password = ""; // Your database password
+$password = " "; // Your database password
 $dbname = "regform"; // Your database name
 
 // Create connection
