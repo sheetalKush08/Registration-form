@@ -38,4 +38,4 @@ if ($conn->connect_error) {
     $conn->close(); 
  
  
-?> enhance this code as if fails display beautiful message and more what you can add
+?>
